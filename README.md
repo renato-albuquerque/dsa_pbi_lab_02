@@ -9,8 +9,7 @@ Projeto do curso: "Microsoft Power BI Para Business Intelligence e Data Science"
 - Vendas.csv
 
 ## Perguntas
-_Em desenvolvimento_
-![Perguntas/Questions]()
+![Perguntas/Questions](files/questions.PNG)
 
 ## Dataviz
 _Em desenvolvimento_
