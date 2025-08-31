@@ -14,9 +14,9 @@ Gerar insights para o negócio com foco em: Vendas, Custo, Margem de Lucro. <br>
 
 ## Dataviz
 _Em desenvolvimento_
-![Dashboard]()
+![Dashboard](files/dashboard_lab_2.PNG)
 <br>
 
-[Ver Dashboard online.]()
+[Ver Dashboard online.](https://app.powerbi.com/view?r=eyJrIjoiMzE2NDM2NWUtMjQ0ZS00N2ZkLWIwMjEtYmZjZDcxOGUxMzE5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 [End]
